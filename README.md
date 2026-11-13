@@ -1,3 +1,19 @@
+# DSH-SUPER-AGENT-FORK
+
+## Origine
+- Fork de : **DSH Super-Agent**
+- Auteur : vicfei
+- Dépôt d'origine : https://github.com/vicfei/dsh-super-agent
+- Forké le 13.11.2026 par OMNIKORP-FAKTORY, avec tout l'historique et toutes les branches
+
+## Rôle chez OMNIKORP
+Prétendant d'AGENT SOFIA (S7), conservé comme preuve et sauvegarde, et étudié dans la chaîne EXTRACTION, COMPARAISON, FUSION.
+
+## Licence
+MIT, inchangée dans le fichier LICENSE.
+
+---
+
 # dsh-super-agent
 
 [![CI](https://github.com/vicfei/dsh-super-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/vicfei/dsh-super-agent/actions/workflows/ci.yml)
